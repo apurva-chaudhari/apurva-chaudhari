@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1420,50:1B2A38,100:0B6E5C&height=200&section=header&text=Apurva%20Rajesh%20Chaudhari&fontSize=40&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Java%20Developer%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=58&descSize=16&descColor=E8FFF8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060B12,50:0D1B24,100:064E3B&height=200&section=header&text=Apurva%20Rajesh%20Chaudhari&fontSize=40&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Java%20Developer%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=58&descSize=16&descColor=E8FFF8" width="100%"/>
 
 <br/>
 
@@ -148,6 +148,6 @@ Hands-on exposure to Android app development — UI design, core functionality, 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B6E5C,100:0A1420&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,100:060B12&height=100&section=footer" width="100%"/>
 
 </div>
