@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060B12,50:0D1B24,100:064E3B&height=200&section=header&text=Apurva%20Rajesh%20Chaudhari&fontSize=40&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Java%20Developer%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=58&descSize=16&descColor=E8FFF8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00B894&height=200&section=header&text=Apurva%20Rajesh%20Chaudhari&fontSize=40&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Java%20Developer%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=58&descSize=16&descColor=E8FFF8" width="100%"/>
 
 <br/>
 
@@ -52,15 +52,6 @@ What drives me is the challenge of turning logic into working software — wheth
 
 <br/>
 
-## 💼 Experience
-
-**Android Development Intern** — Mountreach Solutions Private Limited
-`03 Jun 2024 – 13 Jul 2024`
-
-Hands-on exposure to Android app development — UI design, core functionality, and working within a real dev team workflow.
-
-<br/>
-
 ## 🚀 Featured Projects
 
 | # | Project | Stack | Details |
@@ -86,18 +77,6 @@ Hands-on exposure to Android app development — UI design, core functionality, 
 
 <br/>
 
-## 🧠 Coding Journey
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/LeetCode-14%2B_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
-<img src="https://img.shields.io/badge/HackerRank-2--Star_Java_Badge-2EC866?style=flat-square&logo=hackerrank&logoColor=white"/>
-<img src="https://img.shields.io/badge/DSA_Level-Intermediate-0B6E5C?style=flat-square"/>
-
-</div>
-
-<br/>
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -106,19 +85,6 @@ Hands-on exposure to Android app development — UI design, core functionality, 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=apurva-chaudhari&theme=tokyonight&hide_border=true&background=0A1420&ring=0B6E5C&fire=0B6E5C&currStreakLabel=0B6E5C" width="48%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apurva-chaudhari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A1420&title_color=0B6E5C&text_color=E8FFF8" width="48%"/>
-
-</div>
-
-<br/>
-
-## 🎯 Current Focus
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Java_Development-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/DSA-0B6E5C?style=flat-square"/>
-<img src="https://img.shields.io/badge/Problem_Solving-1B2A38?style=flat-square"/>
-<img src="https://img.shields.io/badge/Software_Development-0A1420?style=flat-square"/>
 
 </div>
 
@@ -148,6 +114,6 @@ Hands-on exposure to Android app development — UI design, core functionality, 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,100:060B12&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B894,100:0D1117&height=100&section=footer" width="100%"/>
 
 </div>
