@@ -1,165 +1,240 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Apurva%20Rajesh%20Chaudhari&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,50:2C5364,100:00C9A7&height=220&section=header&text=Apurva%20Rajesh%20Chaudhari&fontSize=46&fontColor=ffffff&fontAlignY=42&animation=twinkling&desc=Java%20Developer%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=62&descSize=18&descColor=E8FFF8" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2ECC71&center=true&vCenter=true&width=650&lines=Aspiring+Java+Developer;Java+%7C+DSA+%7C+OOP+%7C+SQL;Web+Development+%7C+Full+Stack+Fundamentals;Currently+Learning+React.js" alt="Typing SVG" />
+<a href="https://github.com/apurva-chaudhari">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=00C9A7&center=true&vCenter=true&width=680&lines=const+dev+%3D+new+JavaDeveloper();;dev.skills+%3D+%5B%22Java%22%2C+%22DSA%22%2C+%22SQL%22%5D%3B;dev.status+%3D+%22Open+to+Internships%22+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450"/>
+<img src="https://img.shields.io/badge/📍_Amravati,_Maharashtra-2C5364?style=for-the-badge&labelColor=0F2027" />
+<img src="https://img.shields.io/badge/🎓_B.Tech_IT_·_3rd_Year-2C5364?style=for-the-badge&labelColor=0F2027" />
+<img src="https://img.shields.io/badge/🎯_Open_to_Internships-00C9A7?style=for-the-badge&labelColor=0F2027" />
 
 </div>
 
-<br/>
+<br>
 
-## 👋 About Me
+<table>
+<tr>
+<td width="60%" valign="top">
 
-> "Every bug fixed is a lesson learned — every project built is a step closer to mastery."
+### 🧭 About Me
 
-I'm a **third-year B.Tech Information Technology** student with a strong foundation in **Core Java, Object-Oriented Programming, and Data Structures & Algorithms**. I enjoy building practical software, solving programming problems, and continuously improving my development skills.
+```
+Third-year B.Tech IT student who treats every bug
+as a puzzle and every project as proof of progress.
 
-- 🎓 B.Tech in Information Technology — **Sipna College of Engineering and Technology**
-- 💻 Strong in **Core Java** and **OOP**
-- 🧠 Intermediate in **Data Structures & Algorithms**
-- 🌱 Currently learning **React.js** and strengthening Java + DSA
-- 📍 Amravati, Maharashtra, India
-- 🎯 Looking for **Java Developer Internship** opportunities
+Core strength   → Java + OOP
+Currently level → DSA (intermediate, climbing)
+Building next   → React.js muscle memory
+Looking for     → A Java Developer internship
+                  where I can ship real code
+```
 
-<br/>
+🎓 **Sipna College of Engineering & Technology**, Amravati — CGPA `8.05`
+🌱 Currently sharpening **React.js** alongside Java + DSA
 
-## ⚡ Skills & Tools
+</td>
+<td width="40%" valign="top" align="center">
+
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" width="70"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="70"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="70"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="70"/>
+
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="70"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" width="70"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,py,c,cpp,js,html,css,bootstrap,jquery,react,php,mysql,git,github,vscode,androidstudio" />
+**Languages**
+<br>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
+**Frontend**
+<br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+
+**Backend & Database**
+<br>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
+**Core CS & Tools**
+<br>
+<img src="https://img.shields.io/badge/DSA-00C9A7?style=flat-square&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/OOP-00C9A7?style=flat-square&logo=codereview&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android_Dev-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 
 </div>
 
-<br/>
+<br>
 
-| Category | Technologies |
-|---|---|
-| **Languages** | Java, C, C++, Python, JavaScript, SQL |
-| **Core CS** | Data Structures & Algorithms, Object-Oriented Programming |
-| **Frontend** | HTML, CSS, Bootstrap, jQuery, JavaScript, React.js |
-| **Backend** | PHP |
-| **Database** | MySQL |
-| **Other** | Android Development, Full Stack Web Development Fundamentals |
-| **Tools** | Git, GitHub, VS Code |
+## 💼 Experience
 
-<br/>
+<table>
+<tr>
+<td>
 
-## 💼 Internship Experience
+**🤖 Android Development Intern**
+*Mountreach Solutions Private Limited*
+`03 Jun 2024 – 13 Jul 2024`
 
-**Android Development Intern** — *Mountreach Solutions Private Limited*
-🗓️ 03 June 2024 – 13 July 2024
+Hands-on exposure to Android app development — UI design, core functionality, and working inside a real dev team workflow.
 
-- Gained hands-on exposure to Android application development
-- Worked with Android UI design and basic application functionality
-- Collaborated with the development team to understand real-world software development workflows and practices
+</td>
+</tr>
+</table>
 
-<br/>
+<br>
 
 ## 🚀 Featured Projects
 
-| Project | Stack | Highlights |
-|---|---|---|
-| 🥇 **Attainment Calculation System for NBA Accreditation** | Java · Swing · MySQL | Desktop app to calculate & track course/program attainment for NBA accreditation. MySQL backend, record-management & attainment-calculation modules, report generation. *(📌 GitHub repo coming soon)* |
-| 🥈 **Bakery Shop Management System** | PHP · MySQL · HTML · CSS · Bootstrap · JS · jQuery | Full-stack app for bakery operations — inventory & stock management, order/sales records, billing, add/update/delete ops, responsive frontend with dynamic jQuery interactions. [🔗 Repo](https://github.com/apurva-chaudhari/BakeryShop) |
-| 🥉 **Smart Calculator** | HTML · CSS · JavaScript · jQuery · Bootstrap | Responsive calculator web app with a clean, user-friendly interface. [🔗 Repo](https://github.com/apurva-chaudhari/Smart-Calculator) |
+<table>
+<tr>
+<td width="33%" valign="top">
 
-<br/>
+### 🥇 Attainment Calculator
+**for NBA Accreditation**
 
-## 🏆 Achievements
+`Java` `Swing` `MySQL`
 
-- 🥉 **3rd Prize** — College Project Competition, for the *Bakery Shop Management System*
-- 💻 **Smart India Hackathon (SIH) 2025** — Participated in the institutional selection process at Sipna College of Engineering & Technology, Amravati (24 Sept 2025); contributed to problem analysis, ideation & prototype development
-- 🧩 **Codorithm** — Participated in a coding competition
+Desktop app that calculates & tracks course/program attainment levels for NBA accreditation, with a MySQL backend and automated report generation.
 
-<br/>
+📌 *Repo coming soon*
 
-## 📜 Training & Certifications
+</td>
+<td width="33%" valign="top">
 
-- **UNXT by Unnati** — Completed the 165-hour UNXT Soft Skill Development Program at Dr. Panjabrao Deshmukh Polytechnic, Amravati (Spoken English, Employability Skills, Life Skills, Value Systems)
-- **Web Development Training** — Completed a one-week Web Development training program
+### 🥈 Bakery Shop Manager
+**Full-Stack Web App**
 
-<br/>
+`PHP` `MySQL` `Bootstrap` `jQuery`
 
-## 🎓 Education
+Manages inventory, orders, sales, and billing with a responsive UI and dynamic jQuery-driven interactions.
 
-| Degree | Institute | Score |
-|---|---|---|
-| B.Tech, Information Technology *(3rd Year)* | Sipna College of Engineering and Technology, Amravati | CGPA: 8.05 |
-| Diploma, Computer Science | Panjabrao Deshmukh Polytechnic, Amravati | 84.97% |
+🥉 *3rd Prize — College Project Competition*
 
-<br/>
+[→ View Repo](https://github.com/apurva-chaudhari/BakeryShop)
 
-## 🧠 Coding & Problem Solving
+</td>
+<td width="33%" valign="top">
 
-- **Java:** Strong · **DSA:** Intermediate
-- 🧩 **LeetCode:** 14+ problems solved and actively increasing
-- 🏅 **HackerRank:** ⭐⭐ 2-Star Java badge
+### 🥉 Smart Calculator
+**Web App**
 
-<br/>
+`HTML` `CSS` `JS` `jQuery`
 
-## 📊 GitHub Stats
+A clean, responsive calculator with a user-friendly interface, built to sharpen core JS + DOM fundamentals.
+
+[→ View Repo](https://github.com/apurva-chaudhari/Smart-Calculator)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🏆 Achievements & Activities
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=apurva-chaudhari&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=apurva-chaudhari&theme=radical&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apurva-chaudhari&layout=compact&theme=radical&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=apurva-chaudhari&theme=redical&hide_border=true" width="100%"/>
+| 🏅 | Achievement |
+|:---:|---|
+| 🥉 | **3rd Prize** — College Project Competition, *Bakery Shop Management System* |
+| 💡 | **Smart India Hackathon 2025** — Institutional round, Sipna College (problem analysis, ideation, prototyping) |
+| 🧩 | **Codorithm** — Competitive coding participant |
 
 </div>
 
-<br/>
+<br>
 
-## ⚡ Dev Mantra
+## 📜 Certifications & Training
 
-```java
-// Learn. Build. Solve. Improve. Repeat.
-while (true) {
-    learn();
-    build();
-    solve();
-    improve();
-    if (fail) retry();
-}
-```
+- 🗣️ **UNXT by Unnati** — 165-hr Soft Skill Development Program *(Spoken English · Employability · Life Skills · Value Systems)*
+- 🌐 **Web Development Training** — 1-week intensive program
 
-**🔭 Current Focus:** Java Development | DSA | Problem Solving | Software Development
+<br>
 
-<br/>
-
-## 🌐 Connect With Me
+## 🧠 Coding Journey
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/apurva-chaudhari-apu736637" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/apurva-chaudhari" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://leetcode.com/Apurva_Chaudhari07" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-<a href="https://www.hackerrank.com/apurvachaudhari3" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>
-<a href="mailto:apurvachaudhari74@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<img src="https://img.shields.io/badge/LeetCode-14%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/HackerRank-⭐⭐_Java_Badge-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA_Level-Intermediate-00C9A7?style=for-the-badge"/>
+
+</div>
+
+<br>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=apurva-chaudhari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=00C9A7&icon_color=00C9A7&text_color=E8FFF8&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=apurva-chaudhari&theme=tokyonight&hide_border=true&background=0F2027&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apurva-chaudhari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=00C9A7&text_color=E8FFF8" width="48%"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=apurva-chaudhari&theme=tokyo-night&hide_border=true&bg_color=0F2027&color=00C9A7&line=00C9A7&point=E8FFF8" width="100%"/>
+
+</div>
+
+<br>
+
+## 🎯 Currently Focused On
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java_Development-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA-00C9A7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem_Solving-2C5364?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Software_Development-0F2027?style=for-the-badge"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+```
+"Progress isn't instant — growth compiles quietly, one commit at a time."
+```
+
+## 🌐 Let's Connect
+
+<a href="https://www.linkedin.com/in/apurva-chaudhari-apu736637" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/apurva-chaudhari" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://leetcode.com/Apurva_Chaudhari07" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/apurvachaudhari3" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<a href="mailto:apurvachaudhari74@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 
-⭐ **Thanks for visiting my profile!** ⭐
+![Profile Views](https://komarev.com/ghpvc/?username=apurva-chaudhari&color=00c9a7&style=for-the-badge&label=PROFILE+VIEWS)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C9A7,100:0F2027&height=100&section=footer" width="100%"/>
 
 </div>
