@@ -16,49 +16,37 @@
 
 <br/>
 
-## 🧭 About Me
+## 🌟 About Me
 
-Third-year **B.Tech Information Technology** student at Sipna College of Engineering & Technology, Amravati — CGPA **8.05**. I build with **Core Java and OOP**, solve problems with **Data Structures & Algorithms**, and I'm currently levelling up my **React.js**.
+> "Every line of Java I write is a step closer to becoming the developer I'm aiming to be."
+> "I don't just debug code — I debug my own understanding, one error at a time."
+> "Consistency compiles better results than intensity."
 
-- 💻 Strong in Core Java & Object-Oriented Programming
-- 🧠 Intermediate in Data Structures & Algorithms
-- 🌱 Currently learning React.js
-- 🎯 Looking for a **Java Developer Internship**
+I am a **passionate Information Technology student**, stepping into my third year with steady curiosity and a builder's mindset. My journey so far reflects a balance of **discipline, problem-solving, and persistence** — from strengthening my Java and OOP fundamentals to solving DSA problems and shipping real projects like a full-stack bakery management system and an NBA-accreditation attainment calculator.
+
+What drives me is the challenge of turning logic into working software — whether that's a Java desktop application, a full-stack PHP + MySQL system, or a responsive web app. I believe great developers are built through repetition and real projects, not shortcuts, and I'm actively looking for a **Java Developer Internship** where I can put that mindset to work.
 
 <br/>
 
-## 🛠️ Tech Stack
+## ⚡ Skills & Tools
 
 <div align="center">
 
-**Languages**
+<img src="https://skillicons.dev/icons?i=java,py,c,cpp,js,html,css,mysql,sqlite,git,github,vscode,androidstudio,php&theme=dark" />
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</div>
 
-**Frontend**
+<br/>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<div align="center">
 
-**Backend & Database**
-
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-
-**Tools**
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+| Languages | Databases | Development |
+|:---:|:---:|:---:|
+| Java · Python · C · C++ · JavaScript | MySQL · SQLite | Android Studio · VS Code |
+| **Frontend** | **Backend** | **Tools** |
+| HTML · CSS · Bootstrap · jQuery | PHP | Git · GitHub |
+| **Core CS** | **Currently Learning** | **Soft Skills** |
+| DSA · OOP | React.js | Problem Solving · Teamwork · Adaptability |
 
 </div>
 
