@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=200&section=header&text=Apurva%20Rajesh%20Chaudhari&fontSize=40&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Java%20Developer%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=58&descSize=16&descColor=E8FFF8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1420,50:1B2A38,100:0B6E5C&height=200&section=header&text=Apurva%20Rajesh%20Chaudhari&fontSize=40&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Java%20Developer%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=58&descSize=16&descColor=E8FFF8" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00C9A7&center=true&vCenter=true&width=600&lines=Aspiring+Java+Developer;DSA+%7C+OOP+%7C+SQL+%7C+Web+Dev;Open+to+Internship+Opportunities" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=0B6E5C&center=true&vCenter=true&width=600&lines=Aspiring+Java+Developer;DSA+%7C+OOP+%7C+SQL+%7C+Web+Dev;Open+to+Internship+Opportunities" alt="Typing SVG"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/📍-Amravati,_Maharashtra-2C5364?style=flat-square"/>
-<img src="https://img.shields.io/badge/🎓-B.Tech_IT_(3rd_Year)-2C5364?style=flat-square"/>
-<img src="https://img.shields.io/badge/🎯-Open_to_Internships-00C9A7?style=flat-square"/>
+<img src="https://img.shields.io/badge/📍-Amravati,_Maharashtra-1B2A38?style=flat-square"/>
+<img src="https://img.shields.io/badge/🎓-B.Tech_IT_(3rd_Year)-1B2A38?style=flat-square"/>
+<img src="https://img.shields.io/badge/🎯-Open_to_Internships-0B6E5C?style=flat-square"/>
 
 </div>
 
@@ -92,7 +92,7 @@ Hands-on exposure to Android app development — UI design, core functionality, 
 
 <img src="https://img.shields.io/badge/LeetCode-14%2B_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
 <img src="https://img.shields.io/badge/HackerRank-2--Star_Java_Badge-2EC866?style=flat-square&logo=hackerrank&logoColor=white"/>
-<img src="https://img.shields.io/badge/DSA_Level-Intermediate-00C9A7?style=flat-square"/>
+<img src="https://img.shields.io/badge/DSA_Level-Intermediate-0B6E5C?style=flat-square"/>
 
 </div>
 
@@ -102,10 +102,10 @@ Hands-on exposure to Android app development — UI design, core functionality, 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=apurva-chaudhari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=00C9A7&icon_color=00C9A7&text_color=E8FFF8&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=apurva-chaudhari&theme=tokyonight&hide_border=true&background=0F2027&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=apurva-chaudhari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A1420&title_color=0B6E5C&icon_color=0B6E5C&text_color=E8FFF8&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=apurva-chaudhari&theme=tokyonight&hide_border=true&background=0A1420&ring=0B6E5C&fire=0B6E5C&currStreakLabel=0B6E5C" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apurva-chaudhari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=00C9A7&text_color=E8FFF8" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apurva-chaudhari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A1420&title_color=0B6E5C&text_color=E8FFF8" width="48%"/>
 
 </div>
 
@@ -116,9 +116,9 @@ Hands-on exposure to Android app development — UI design, core functionality, 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Java_Development-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/DSA-00C9A7?style=flat-square"/>
-<img src="https://img.shields.io/badge/Problem_Solving-2C5364?style=flat-square"/>
-<img src="https://img.shields.io/badge/Software_Development-0F2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/DSA-0B6E5C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Problem_Solving-1B2A38?style=flat-square"/>
+<img src="https://img.shields.io/badge/Software_Development-0A1420?style=flat-square"/>
 
 </div>
 
@@ -144,10 +144,10 @@ Hands-on exposure to Android app development — UI design, core functionality, 
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=apurva-chaudhari&color=00c9a7&style=flat-square&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=apurva-chaudhari&color=0b6e5c&style=flat-square&label=Profile+Views"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0F2027&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B6E5C,100:0A1420&height=100&section=footer" width="100%"/>
 
 </div>
