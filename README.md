@@ -56,7 +56,7 @@ What drives me is the challenge of turning logic into working software — wheth
 
 | # | Project | Stack | Details |
 |:-:|---|---|---|
-| 🥇 | **Attainment Calculator**<br/>*for NBA Accreditation* | Java · Swing · MySQL | Desktop app to calculate & track program attainment levels, with automated report generation. *Repo coming soon.* |
+| 🥇 | **[Shop Billing & Inventory Management System](https://github.com/apurva-chaudhari/shop-billing-inventory-system)** | React · Node.js · Express · Prisma · SQLite · Bootstrap | Full-stack shop management system for billing, inventory, products, customers, suppliers, purchases, GST calculation, barcode scanning, voice-assisted billing & invoice generation. |
 | 🥈 | **[Bakery Shop Manager](https://github.com/apurva-chaudhari/BakeryShop)** | PHP · MySQL · Bootstrap · jQuery | Full-stack app for inventory, orders, sales & billing. 🥉 3rd Prize — College Project Competition. |
 | 🥉 | **[Smart Calculator](https://github.com/apurva-chaudhari/Smart-Calculator)** | HTML · CSS · JS · jQuery | Clean, responsive calculator web app. |
 
