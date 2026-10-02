@@ -32,7 +32,7 @@ What drives me is the challenge of turning logic into working software — wheth
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,py,c,cpp,js,html,css,mysql,sqlite,git,github,vscode,androidstudio,php&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,py,c,cpp,js,html,css,react,nodejs,express,laravel,mysql,sqlite,git,github,vscode,androidstudio,php&theme=dark" />
 
 </div>
 
@@ -46,7 +46,7 @@ What drives me is the challenge of turning logic into working software — wheth
 | **Frontend** | **Backend** | **Tools** |
 | HTML · CSS · Bootstrap · jQuery | PHP | Git · GitHub |
 | **Core CS** | **Currently Learning** | **Soft Skills** |
-| DSA · OOP | React.js | Problem Solving · Teamwork · Adaptability |
+| DSA · OOP | Laravel | Problem Solving · Teamwork · Adaptability |
 
 </div>
 
